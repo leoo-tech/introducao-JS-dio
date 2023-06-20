@@ -1,0 +1,10 @@
+vamos calcular o valor de uma viagem.
+
+5 variaveis. sendo estas:
+  1 - preço do etanol;
+  2 - preço da gasolina;
+  3 - tipo de combustivel no carro;
+  4 - gasto medio de combustivel do carro por KM;
+  5 - distancia em KM da viagem;
+
+  imprima no console o valor que sera gasto para realizar esta viagem.
